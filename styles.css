@@ -1,0 +1,81 @@
+#image {
+    min-width: 200px;
+    max-width: 100%;
+    height:auto;
+    display: block;
+    margin:0 auto;
+    border-radius: 10px;
+    
+  }
+  html { 
+    background: url("https://wallpapercave.com/dwp1x/wp2628286.jpg") no-repeat center center fixed; 
+    background-size: cover;
+  }
+  header, figcaption, h2, p{
+    text-align: center;
+  }
+  #tribute-info {
+    min-width: 200px;
+    max-width: 800px;
+    height:auto;
+    display: block;
+    margin:0 auto;
+  }
+  
+  .form {
+    background-color: rgba(230,230,230, 0.8);
+    min-width: 200px;
+    max-width: 600px;
+    height:auto;
+    display: block;
+    margin:0 auto;
+    border-radius: 10px;
+  }
+  #quote {
+    font-family: Bradley Hand, cursive;
+    font-weight: bold;
+    font-size: 18px;
+  
+  } 
+  li{
+    font-size: 16px;
+    font-family: Georgia, serif;
+  }
+  footer{
+    padding-bottom: 5px;
+    font-size: 16px;
+    font-family: Georgia, serif;
+  }
+  a{
+    text-decoration: none;
+    color: purple;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+    color: green;
+  }
+  
+  a:active {
+    text-decoration: underline;
+    color: green;
+  }
+  h1{
+    margin: 0px auto;
+    padding-bottom: 10px;
+    padding-top:10px;
+  }
+  #discription {
+  
+     margin: 0 0;
+     padding-bottom:10px;
+  }
+  figcaption{
+    padding-top:5px;
+    margin-bottom: 0;
+  }
+  h2{
+    margin-bottom: -10px;
+    margin-top:10px;
+  }
+  
